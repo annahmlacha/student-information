@@ -103,6 +103,8 @@ int main() {
             break;
         case 3:
             cout << "Exiting the program. Goodbye!" << endl;
+        case 4:
+            cout << "Enter your choice.  Thank you!" << endl;
             return 0;
         default:
             cout << "Invalid choice. Please try again." << endl;
